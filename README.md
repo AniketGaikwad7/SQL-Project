@@ -1,4 +1,4 @@
-# SQL-Project
+# CAR SALES SQL-Project
 
 The primary goal of this project is to analyze car sales data to understand sales trends, identify key performance indicators, and generate insights to improve sales strategies.
 
